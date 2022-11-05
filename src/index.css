@@ -29,3 +29,11 @@ main {
 .product-info {
   padding: 1rem;
 }
+
+.img-large {
+  max-width: 100%;
+}
+
+.btn-addcar {
+  background-color: rgb(143, 26, 233);
+}
