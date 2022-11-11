@@ -37,3 +37,8 @@ main {
 .btn-addcar {
   background-color: rgb(143, 26, 233);
 }
+
+.img-thumbnail {
+  height: 80px;
+  width: 80px;
+}
